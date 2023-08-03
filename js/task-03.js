@@ -12,3 +12,8 @@ const images = [
     alt: 'Group of Horses Running',
   },
 ];
+
+const allImages = document.querySelector(".gallery");
+
+
+
